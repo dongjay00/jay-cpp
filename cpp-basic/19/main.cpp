@@ -5,6 +5,7 @@ using namespace std;
 const int SIZE = 30;
 int main()
 {
+	// switch, break, continue
 	// switch
 	int a;
 	cin >> a;
